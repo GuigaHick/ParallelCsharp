@@ -1,0 +1,6 @@
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\bin\Debug\WaitToCancel.exe.config
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\bin\Debug\WaitToCancel.exe
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\bin\Debug\WaitToCancel.pdb
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\obj\Debug\WaitToCancel.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\obj\Debug\WaitToCancel.exe
+C:\Users\Bastos\source\repos\LearnParallel\WaitToCancel\obj\Debug\WaitToCancel.pdb

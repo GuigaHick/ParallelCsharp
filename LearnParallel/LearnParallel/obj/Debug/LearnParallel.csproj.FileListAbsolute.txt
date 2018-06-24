@@ -1,0 +1,7 @@
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\bin\Debug\LearnParallel.exe.config
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\bin\Debug\LearnParallel.exe
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\bin\Debug\LearnParallel.pdb
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\obj\Debug\LearnParallel.csprojResolveAssemblyReference.cache
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\obj\Debug\LearnParallel.csproj.CoreCompileInputs.cache
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\obj\Debug\LearnParallel.exe
+c:\users\bastos\source\repos\LearnParallel\LearnParallel\obj\Debug\LearnParallel.pdb

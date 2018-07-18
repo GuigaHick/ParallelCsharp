@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\bin\Debug\SincronizationMutex.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\bin\Debug\SincronizationMutex.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\bin\Debug\SincronizationMutex.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\obj\Debug\SincronizationMutex.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\obj\Debug\SincronizationMutex.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\obj\Debug\SincronizationMutex.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationMutex\obj\Debug\SincronizationMutex.pdb

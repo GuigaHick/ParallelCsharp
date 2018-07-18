@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\bin\Debug\ReadWriterLock.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\bin\Debug\ReadWriterLock.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\bin\Debug\ReadWriterLock.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\obj\Debug\ReadWriterLock.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\obj\Debug\ReadWriterLock.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\obj\Debug\ReadWriterLock.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ReadWriterLock\obj\Debug\ReadWriterLock.pdb

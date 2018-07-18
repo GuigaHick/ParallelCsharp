@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\bin\Debug\SincronizationSpinLock.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\bin\Debug\SincronizationSpinLock.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\bin\Debug\SincronizationSpinLock.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\obj\Debug\SincronizationSpinLock.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\obj\Debug\SincronizationSpinLock.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\obj\Debug\SincronizationSpinLock.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SincronizationSpinLock\obj\Debug\SincronizationSpinLock.pdb

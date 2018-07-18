@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitToCancel", "WaitToCance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitTasks", "WaitTasks\WaitTasks.csproj", "{52B6B2D8-9793-4ADB-BDEE-08293452EE52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{0B44DEB1-5BA3-4BD2-9B71-3292B217B34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sincronization", "Sincronization\Sincronization.csproj", "{F3A52797-1CF8-4360-A58F-3742D9CF2F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SincronizationSpinLock", "SincronizationSpinLock\SincronizationSpinLock.csproj", "{46806475-3C1B-49F6-B672-00AF694650B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SincronizationMutex", "SincronizationMutex\SincronizationMutex.csproj", "{39BDE16E-9C18-499F-B9FD-37ADDEE7A532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriterLock", "ReadWriterLock\ReadWriterLock.csproj", "{C79038BC-CD23-4A81-8A35-EC468B50802F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{52B6B2D8-9793-4ADB-BDEE-08293452EE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B6B2D8-9793-4ADB-BDEE-08293452EE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B6B2D8-9793-4ADB-BDEE-08293452EE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B44DEB1-5BA3-4BD2-9B71-3292B217B34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B44DEB1-5BA3-4BD2-9B71-3292B217B34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B44DEB1-5BA3-4BD2-9B71-3292B217B34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B44DEB1-5BA3-4BD2-9B71-3292B217B34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A52797-1CF8-4360-A58F-3742D9CF2F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A52797-1CF8-4360-A58F-3742D9CF2F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A52797-1CF8-4360-A58F-3742D9CF2F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A52797-1CF8-4360-A58F-3742D9CF2F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46806475-3C1B-49F6-B672-00AF694650B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46806475-3C1B-49F6-B672-00AF694650B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46806475-3C1B-49F6-B672-00AF694650B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46806475-3C1B-49F6-B672-00AF694650B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BDE16E-9C18-499F-B9FD-37ADDEE7A532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BDE16E-9C18-499F-B9FD-37ADDEE7A532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BDE16E-9C18-499F-B9FD-37ADDEE7A532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BDE16E-9C18-499F-B9FD-37ADDEE7A532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

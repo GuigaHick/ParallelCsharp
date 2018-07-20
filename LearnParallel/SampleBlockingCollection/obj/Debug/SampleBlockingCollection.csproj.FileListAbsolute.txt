@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\bin\Debug\SampleBlockingCollection.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\bin\Debug\SampleBlockingCollection.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\bin\Debug\SampleBlockingCollection.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\obj\Debug\SampleBlockingCollection.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\obj\Debug\SampleBlockingCollection.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\obj\Debug\SampleBlockingCollection.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleBlockingCollection\obj\Debug\SampleBlockingCollection.pdb

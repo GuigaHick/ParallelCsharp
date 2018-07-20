@@ -21,6 +21,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SincronizationMutex", "Sinc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriterLock", "ReadWriterLock\ReadWriterLock.csproj", "{C79038BC-CD23-4A81-8A35-EC468B50802F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConcurrentDictionary", "SampleConcurrentDictionary\SampleConcurrentDictionary.csproj", "{78407DEA-516C-4C54-92D2-8BD1C6D0B6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConcurrentQueue", "SampleConcurrentQueue\SampleConcurrentQueue.csproj", "{ABD530F0-2F55-4BA8-AF99-BD5DDD01AD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConcurrentStack", "SampleConcurrentStack\SampleConcurrentStack.csproj", "{DBEF8D0F-61F0-4694-81AE-C5E793BAB18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConcurrentBag", "SampleConcurrentBag\SampleConcurrentBag.csproj", "{0A98225A-7AD9-48E6-A523-5DE211306F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBlockingCollection", "SampleBlockingCollection\SampleBlockingCollection.csproj", "{BC8F1B78-4715-4DB6-9E9F-785A5BDEE75F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +73,26 @@ Global
 		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79038BC-CD23-4A81-8A35-EC468B50802F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78407DEA-516C-4C54-92D2-8BD1C6D0B6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78407DEA-516C-4C54-92D2-8BD1C6D0B6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78407DEA-516C-4C54-92D2-8BD1C6D0B6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78407DEA-516C-4C54-92D2-8BD1C6D0B6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD530F0-2F55-4BA8-AF99-BD5DDD01AD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD530F0-2F55-4BA8-AF99-BD5DDD01AD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD530F0-2F55-4BA8-AF99-BD5DDD01AD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD530F0-2F55-4BA8-AF99-BD5DDD01AD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEF8D0F-61F0-4694-81AE-C5E793BAB18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEF8D0F-61F0-4694-81AE-C5E793BAB18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEF8D0F-61F0-4694-81AE-C5E793BAB18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEF8D0F-61F0-4694-81AE-C5E793BAB18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A98225A-7AD9-48E6-A523-5DE211306F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A98225A-7AD9-48E6-A523-5DE211306F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A98225A-7AD9-48E6-A523-5DE211306F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A98225A-7AD9-48E6-A523-5DE211306F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8F1B78-4715-4DB6-9E9F-785A5BDEE75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8F1B78-4715-4DB6-9E9F-785A5BDEE75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8F1B78-4715-4DB6-9E9F-785A5BDEE75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8F1B78-4715-4DB6-9E9F-785A5BDEE75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

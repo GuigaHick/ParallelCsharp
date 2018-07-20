@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\bin\Debug\SampleConcurrentBag.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\bin\Debug\SampleConcurrentBag.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\bin\Debug\SampleConcurrentBag.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\obj\Debug\SampleConcurrentBag.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\obj\Debug\SampleConcurrentBag.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\obj\Debug\SampleConcurrentBag.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentBag\obj\Debug\SampleConcurrentBag.pdb

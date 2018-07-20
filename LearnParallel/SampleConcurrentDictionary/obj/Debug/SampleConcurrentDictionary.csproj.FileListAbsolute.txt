@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\bin\Debug\SampleConcurrentDictionary.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\bin\Debug\SampleConcurrentDictionary.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\bin\Debug\SampleConcurrentDictionary.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\obj\Debug\SampleConcurrentDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\obj\Debug\SampleConcurrentDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\obj\Debug\SampleConcurrentDictionary.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SampleConcurrentDictionary\obj\Debug\SampleConcurrentDictionary.pdb

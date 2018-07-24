@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\bin\Debug\SemaphoreSincronize.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\bin\Debug\SemaphoreSincronize.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\bin\Debug\SemaphoreSincronize.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\obj\Debug\SemaphoreSincronize.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\obj\Debug\SemaphoreSincronize.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\obj\Debug\SemaphoreSincronize.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\SemaphoreSincronize\obj\Debug\SemaphoreSincronize.pdb

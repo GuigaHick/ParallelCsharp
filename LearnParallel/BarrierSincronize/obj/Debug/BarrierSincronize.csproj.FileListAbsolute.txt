@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\bin\Debug\BarrierSincronize.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\bin\Debug\BarrierSincronize.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\bin\Debug\BarrierSincronize.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\obj\Debug\BarrierSincronize.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\obj\Debug\BarrierSincronize.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\obj\Debug\BarrierSincronize.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\BarrierSincronize\obj\Debug\BarrierSincronize.pdb

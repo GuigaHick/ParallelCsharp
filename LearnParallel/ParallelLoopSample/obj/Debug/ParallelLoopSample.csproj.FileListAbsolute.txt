@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\bin\Debug\ParallelLoopSample.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\bin\Debug\ParallelLoopSample.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\bin\Debug\ParallelLoopSample.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\obj\Debug\ParallelLoopSample.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\obj\Debug\ParallelLoopSample.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\obj\Debug\ParallelLoopSample.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ParallelLoopSample\obj\Debug\ParallelLoopSample.pdb

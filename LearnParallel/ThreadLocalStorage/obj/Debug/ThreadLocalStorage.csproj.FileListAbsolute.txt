@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.pdb

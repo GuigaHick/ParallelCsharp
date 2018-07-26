@@ -1,0 +1,6 @@
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\bin\Debug\LoopErrorHandler.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\bin\Debug\LoopErrorHandler.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\bin\Debug\LoopErrorHandler.pdb
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\obj\Debug\LoopErrorHandler.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\obj\Debug\LoopErrorHandler.exe
+C:\Users\Bastos\Desktop\Exercises Curse C# paralellism\ParallelCsharp\LearnParallel\LoopErrorHandler\obj\Debug\LoopErrorHandler.pdb
